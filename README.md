@@ -6,7 +6,6 @@ I am a **Software Developer** with experience in building web and mobile applica
 ## 👨‍💻 About Me
 - 📍 Based in Pune, India
 - 💼 Currently a Software Developer at Dhritee Software
-- 🎓 Bachelor of Computer Application (CGPA: 8.67)
 - 🌐 Exploring new technologies and improving my skill set daily
 
 ---
